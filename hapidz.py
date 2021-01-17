@@ -6,9 +6,9 @@ import time
  
 time.sleep(.5)
 print "\n        ---####################################################---"
-print "      -----#                                                  #-----"
+print "      -----#                                                    #-----"
 print "   --------#	Team	   : Bandung Security Lite             #--------"
-print "      -----#	Created By : Hapidz Therev                     #-----"
+print "      -----#	Created By : HapidzClay404                     #-----"
 print "       ----#	Contack Me : hapidzkzsr@gmail.com              #---"                          #---"
 print "        ---#	Info       : Auto Sqli Query Maker             #---"                                #---"
 print "        ---#                                                   #---"
