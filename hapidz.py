@@ -8,7 +8,7 @@ time.sleep(.5)
 print "\n        ---####################################################---"
 print "      -----#                                                    #-----"
 print "   --------#	Team	   : Bandung Security Lite             #--------"
-print "      -----#	Created By : HapidzClay404                     #-----"
+print "      -----#	Created By : HapidzTech.                      #-----"
 print "       ----#	Contack Me : hapidzkzsr@gmail.com              #---"                          #---"
 print "        ---#	Info       : Auto Sqli Query Maker             #---"                                #---"
 print "        ---#                                                   #---"
